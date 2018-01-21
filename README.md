@@ -1,4 +1,4 @@
-# Homely Offline Mode
+# Homely Offline Mode  (⊃"｡•́‿•̀｡)⊃━☆ﾟ.*･｡ﾟ
 
 In order to get Homely ready as a PWA we need to have it be able to operate when there is no internet connection. There are tools already available to make this task simpler with the use of Service Workers etc.
 
