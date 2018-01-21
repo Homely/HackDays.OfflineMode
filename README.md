@@ -5,6 +5,7 @@ In order to get Homely ready as a PWA we need to have it be able to operate when
 ## References
 
 Get Started With Workbox For Webpack: https://developers.google.com/web/tools/workbox/get-started/webpack
+
 Localhost-only working app: https://github.com/soutarm/FrontEndWebsite/tree/feature/offline-mode
 
 ## Findings
